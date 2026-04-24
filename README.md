@@ -9,4 +9,5 @@ Download Dev Containers extenstion in Visual Studio Code
 2. Create a devcontainer.json file within the project
 3. Run Dev Containers: Reopen in Containers 
 4. Choose Node.js & JavaScript for node example/template
-5. 
+5. Add app.js and put console.log("Hello, world!") within it
+6. Push to github repository
